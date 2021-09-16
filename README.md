@@ -11,6 +11,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 Nothing here to see lol, i'm just a student who needs GitHub Edu 😢
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=10&layout=compact&border_radius&title_color=ff77aa&border_color=9c9c9c&bg_color=135deg,2780e6,a03cff)](https://github.com/anuraghazra/github-readme-stats)
+<div align='center'>
+[![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Endy3032&theme=nord&bg_color=-60,161c28,262c38&border_radius=10&border_color=2e3440&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</div>
