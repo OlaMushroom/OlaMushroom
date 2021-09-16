@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Nothing here to see lol, i'm just a student who needs GitHub Edu 😢
+
 <div align='center'>
-[![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Endy3032&theme=nord&bg_color=-60,161c28,262c38&border_radius=10&border_color=2e3440&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  [![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Endy3032&theme=nord&bg_color=-60,161c28,262c38&border_radius=10&border_color=2e3440&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
