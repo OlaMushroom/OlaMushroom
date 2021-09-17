@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 <div align='center'>
 
-  [![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OlaMushroom&theme=nord&bg_color=-100,3366cc,a31aff&border_radius=10&border_color=9c9c9c&layout=compact&langs_count=10&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+  [![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OlaMushroom&theme=nord&bg_color=-45,0e1420,1e2430&border_color=2e3440&border_radius=10&layout=compact&langs_count=10&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
 
