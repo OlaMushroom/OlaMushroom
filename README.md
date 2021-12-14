@@ -18,4 +18,4 @@ Here are some ideas to get you started:
   
 </div>
 
-Nothing here to see lol, i'm just a student who needs GitHub Edu 😢
+Nothing here to see lol, i'm just a student who need GitHub Edu 😢
