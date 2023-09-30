@@ -24,20 +24,10 @@
         },
 
         {
-          "type": "time",
-          "style": "powerline",
-          "powerline_symbol": "\ue0b4",
-          "background": "p:blue",
-          "foreground": "p:text",
-          "template": " {{ .CurrentDate | date .Format }} ",
-          "properties": {"time_format": "15:04:05.000"}
-        },
-
-        {
           "type": "path",
           "style": "powerline",
           "powerline_symbol": "\ue0b4",
-          "background": "p:pink",
+          "background": "p:blue",
           "foreground": "p:text",
           "template": " {{ .Location }} "
         }
