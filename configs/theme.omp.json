@@ -19,7 +19,7 @@
           "leading_diamond": "",
           "background": "p:pink",
           "foreground": "p:text",
-          "template": " #{{ .PromptCount }}|{{ .FormattedMs }} ",
+          "template": "{{ .FormattedMs }}",
           "properties": {"always_enabled": true}
         },
 
@@ -29,7 +29,7 @@
           "powerline_symbol": "\ue0b4",
           "background": "p:blue",
           "foreground": "p:text",
-          "template": " {{ .Location }} "
+          "template": " {{ .Location }}"
         }
       ]
     }
@@ -43,7 +43,7 @@
       "trailing_diamond": "",
       "foreground": "p:text",
       "background": "p:pink",
-      "template": "   {{ .PhysicalPercentUsed }}% "
+      "template": " {{ .PhysicalPercentUsed }}%"
     }
   ]
 }
