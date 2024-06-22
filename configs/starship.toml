@@ -9,13 +9,20 @@ error_symbol = "[❯](peach)"
 vimcmd_symbol = "[❮](green)"
 
 [directory]
-truncation_length = -1
 style = "bold lavender"
 home_symbol = "C:/Users/a"
+truncation_length = -1
 
 [cmd_duration]
 min_time = 1
 show_milliseconds = true
+
+[memory_usage]
+threshold = 1
+disabled = false
+
+[git_status]
+disabled = true
 
 [palettes.catppuccin_frappe]
 rosewater = "#f2d5cf"
