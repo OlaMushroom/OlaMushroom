@@ -21,6 +21,9 @@ show_milliseconds = true
 threshold = 1
 disabled = false
 
+[git_branch]
+disabled = true
+
 [git_status]
 disabled = true
 
