@@ -1,31 +1,12 @@
 "$schema" = 'https://starship.rs/config-schema.json'
 
+format = """$fill
+$cmd_duration$memory_usage
+$directory$all
+$character"""
+right_format = """$all"""
+add_newline = false
 palette = "catppuccin_frappe"
-add_newline = true # Inserts a blank line between shell prompts
-
-[character]
-success_symbol = "[❯](sapphire)"
-error_symbol = "[❯](peach)"
-vimcmd_symbol = "[❮](green)"
-
-[directory]
-style = "bold lavender"
-home_symbol = "C:/Users/a"
-truncation_length = -1
-
-[cmd_duration]
-min_time = 1
-show_milliseconds = true
-
-[memory_usage]
-threshold = 1
-disabled = false
-
-[git_branch]
-disabled = true
-
-[git_status]
-disabled = true
 
 [palettes.catppuccin_frappe]
 rosewater = "#f2d5cf"
@@ -54,3 +35,30 @@ surface0 = "#414559"
 base = "#303446"
 mantle = "#292c3c"
 crust = "#232634"
+
+[fill]
+symbol = '—'
+style = 'bold crust'
+
+[character]
+success_symbol = "[❯](sapphire)"
+error_symbol = "[❯](peach)"
+vimcmd_symbol = "[❮](green)"
+
+[directory]
+style = "bold lavender"
+truncation_length = -1
+
+[cmd_duration]
+min_time = 1
+show_milliseconds = true
+
+[memory_usage]
+threshold = 1
+disabled = false
+
+[git_branch]
+disabled = true
+
+[git_status]
+disabled = true
