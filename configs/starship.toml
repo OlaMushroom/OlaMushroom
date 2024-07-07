@@ -5,6 +5,8 @@ $cmd_duration$memory_usage
 $directory$all
 $character"""
 right_format = """$all"""
+scan_timeout = 100
+command_timeout = 1000
 add_newline = false
 palette = "catppuccin_frappe"
 
@@ -56,9 +58,6 @@ show_milliseconds = true
 [memory_usage]
 threshold = 1
 disabled = false
-
-[git_branch]
-disabled = true
 
 [git_status]
 disabled = true
