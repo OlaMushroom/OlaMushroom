@@ -24,6 +24,5 @@
     "target": "ES2022",
     // Completeness
     "skipLibCheck": true
-  },
-  "include": ["src/**/*"]
+  }
 }
