@@ -1,0 +1,29 @@
+{
+  "$schema": "https://json.schemastore.org/tsconfig",
+  "compilerOptions": {
+    // Type Checking
+    "strict": true,
+    "noImplicitOverride": true,
+    // Modules
+    "allowImportingTsExtensions": true,
+    "module": "ESNext",
+    "moduleResolution": "bundler",
+    // Emit
+    "declaration": true,
+    "emitDeclarationOnly": true,
+    // JavaScript Support
+    "allowJs": true,
+    "checkJs": true,
+    // Interop Constraints
+    "esModuleInterop": true,
+    "isolatedModules": true,
+    "verbatimModuleSyntax": true,
+    // Language and Environment
+    "lib": ["ES2022", "DOM"],
+    "moduleDetection": "force",
+    "target": "ES2022",
+    // Completeness
+    "skipLibCheck": true
+  },
+  "include": ["src/**/*"]
+}
