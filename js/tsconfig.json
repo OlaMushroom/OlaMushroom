@@ -1,9 +1,8 @@
 {
   "$schema": "https://json.schemastore.org/tsconfig",
   "compilerOptions": {
-    // Type Checking
     "strict": true,
-    "noImplicitOverride": true,
+    "skipLibCheck": true,
     // Modules
     "allowImportingTsExtensions": true,
     "module": "ESNext",
@@ -22,7 +21,5 @@
     "lib": ["ES2022", "DOM"],
     "moduleDetection": "force",
     "target": "ES2022",
-    // Completeness
-    "skipLibCheck": true
   }
 }
