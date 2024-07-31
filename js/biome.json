@@ -13,7 +13,7 @@
   },
   "javascript": {
     "formatter": {
-      "arrowParentheses":"asNeeded",
+      "arrowParentheses": "asNeeded",
       "indentStyle": "space",
       "quoteStyle": "single",
       "semicolons": "asNeeded",
