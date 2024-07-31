@@ -20,6 +20,6 @@
     // Language and Environment
     "lib": ["ES2022", "DOM"],
     "moduleDetection": "force",
-    "target": "ES2022",
+    "target": "ES2022"
   }
 }
