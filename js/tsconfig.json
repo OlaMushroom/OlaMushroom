@@ -3,18 +3,16 @@
   "compilerOptions": {
     "strict": true,
     "skipLibCheck": true,
+    "declaration": true,
     // Modules
-    "allowImportingTsExtensions": true,
     "module": "ESNext",
     "moduleResolution": "bundler",
-    // Emit
-    "declaration": true,
-    "emitDeclarationOnly": true,
     // JavaScript Support
     "allowJs": true,
     "checkJs": true,
     // Interop Constraints
     "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
     "isolatedModules": true,
     "verbatimModuleSyntax": true,
     // Language and Environment
